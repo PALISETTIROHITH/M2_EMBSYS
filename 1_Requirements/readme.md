@@ -1,4 +1,4 @@
-###Identifying Features
+### Identifying Features
 
 -- Easy installation.
 
@@ -10,10 +10,10 @@
 
 -- Consume very little energy, ideal for continuous operation.
 
-###State of art/Research
-###SWOT ANALYSIS
+### State of art/Research
+### SWOT ANALYSIS
 
-###Strength
+### Strength
 
 -- Highly sensitive, low cost and reliable circuit.
 
@@ -25,7 +25,7 @@
 
 -- Can be handle heavy loads.
 
-###Weakness
+### Weakness
 
 -- This is applicable for only large frames.
 
@@ -33,30 +33,30 @@
 
 -- The rust, foul and deteriorate
 
-###Opportunities
+### Opportunities
 
 -- There are huge opportunities in the local market since these types of automations are not yet penetrated to the villages and rural markets.
 
 -- Agriculture still uses conventional methods for many cases so that a huge opportunities are still awaiting in rural India.
 
-###Thearts
+### Thearts
 
 -- New automatic systems are to be introduced to the market which may have better options.
 
 -- cheap complementary products may enter to the market.
 
-###4W's and 1H
+### 4W's and 1H
 
-###Who
+### Who
 
 
 -- can be access by the Gardeners,farmers and interested in home roof gardeners.
 
-###What
+### What
 
 -- Implementation of Automatic Plant Irrigation System.
 
-###Where
+### Where
 
 -- Agriculture Irrigation System.
 
@@ -68,15 +68,15 @@
 
 -- Picsiculture.
 
-###When
+### When
 
 -- At any time it can be used if neccesary after bulid the circuit.
 
-###How
+### How
 
 -- This application is implemented using C programing language.
 
-###High level requirements
+### High level requirements
 
 -- Automatically adjusts water levels.
 
@@ -90,7 +90,7 @@
 
 -- Consumes a small amount little energy, perfect for on-going operations.
 
-###Low level requirements
+### Low level requirements
 
 -- Can't loaded more than the system specifications.
 
